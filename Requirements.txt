@@ -1,0 +1,7 @@
+streamlit       → Dashboard
+pandas          → Reading/processing data
+numpy           → Numerical calculations
+scipy           → FFT + kurtosis
+scikit-learn    → StandardScaler, MinMaxScaler, Isolation Forest
+joblib          → Loading scaler/model .pkl files
+matplotlib      → Notebook visualizations
